@@ -12,6 +12,8 @@
 
 - [영화 인어공주를 개봉 전/개봉 후 리뷰데이터 분석](https://github.com/jyngho/DA_pfolio/tree/main/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%AE2023%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B3%E1%86%BC%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8)
 
+- [KPI 대시보드 제작](https://github.com/jyngho/DA_pfolio/blob/main/KPI대시보드.pdf)
+
 
 # 사용가능 툴 
     -python, SQL
